@@ -1,0 +1,3 @@
+[submodule "cambridge-ui"]
+	path = cambridge-ui
+	url = git@bitbucket.org:ca-labs/cambridge-ui.git
